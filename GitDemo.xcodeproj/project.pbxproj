@@ -13,6 +13,7 @@
 		E93F776220BFF5B400E5284B /* GitDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E93F776020BFF5B400E5284B /* GitDemo.xcdatamodeld */; };
 		E93F776420BFF5B400E5284B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E93F776320BFF5B400E5284B /* Assets.xcassets */; };
 		E93F776720BFF5B400E5284B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E93F776520BFF5B400E5284B /* LaunchScreen.storyboard */; };
+		E93F776F20C0013300E5284B /* testTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93F776E20C0013300E5284B /* testTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E93F776320BFF5B400E5284B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E93F776620BFF5B400E5284B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E93F776820BFF5B400E5284B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E93F776E20C0013300E5284B /* testTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E93F776520BFF5B400E5284B /* LaunchScreen.storyboard */,
 				E93F776820BFF5B400E5284B /* Info.plist */,
 				E93F776020BFF5B400E5284B /* GitDemo.xcdatamodeld */,
+				E93F776E20C0013300E5284B /* testTableViewCell.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E93F775C20BFF5B400E5284B /* ViewController.swift in Sources */,
+				E93F776F20C0013300E5284B /* testTableViewCell.swift in Sources */,
 				E93F776220BFF5B400E5284B /* GitDemo.xcdatamodeld in Sources */,
 				E93F775A20BFF5B400E5284B /* AppDelegate.swift in Sources */,
 			);
